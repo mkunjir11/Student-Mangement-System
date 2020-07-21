@@ -1,0 +1,65 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 2, 2016, 3:15:05 AM
+    Author     : Mohit Kunjir
+*/
+/*THis is for the PRN textbox*/
+table {
+    width: 500px;   
+}
+.fakey {
+    border: none; 
+    color: #ccc; 
+    font-family: 'Open Sans', sans-serif;
+    color: #555;
+    font-size: 12px;   
+}
+
+.fakey input {
+    border: solid 1px;   
+    outline: none;
+    font-family: 'Open Sans', sans-serif;
+    color: #555;
+    font-size: 12px;
+    width: 200px;    
+}
+
+#tf-search{
+	padding: 10px 0;
+}
+
+label {
+	float: left;
+	font-size: 12px;
+	font-weight: 400;
+	font-family: 'Open Sans', sans-serif;
+}
+#tf-search .form-control {
+	display: block;
+	width: 100%;
+	padding: 6px 12px;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #555;
+	background-color: #fff;
+	background-image: none;
+	border: 1px solid #ccc;
+	border-radius: 2px;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	-webkit-transition: none;
+	-o-transition: none;
+	transition: none;
+}
+
+#tf-search .form-control:focus {
+	border-color: inherit;
+	outline: 0;
+	-webkit-box-shadow: transparent;
+	box-shadow: transparent;
+}
+

@@ -1,0 +1,253 @@
+_id,fname,lname,gender,caste,admcat,yearAd,isScholarship,dept,classYear
+P123456,Sanket ,Kunjir,male,Open,Cap,2015,yes,IT,BE
+P013401,Mohit,Kunjir,male,Open,Cap,2013,no,Computer,BE
+P114302,Satvashila,Bagal,female,OBC,Management,2014,yes,IT,TE
+P215203,Arfat,Sayyed,male,SC,Cap,2015,no,EnTC,SE
+P316104,Priyanka,Karad,female,NT,Management,2016,yes,Electrical,FE
+P413405,Swati,Londhe,female,Open,Cap,2013,no,Mechanical,BE
+P014306,Sumeet,Joshi,male,OBC,Cap,2014,yes,Computer,TE
+P115207,Umesh,Pedhe,male,SC,Cap,2015,yes,IT,SE
+P914401,Radhika,Bhagwat,male,Open,Cap,2011,no,Mechanical,BE
+P914402,Samruddhi ,Deshpande,female,OBC,Management,2011,yes,Mechanical,BE
+P914403,Reem,Merchant,male,SC,Cap,2011,no,Mechanical,BE
+P914404,Shaunak,Phatak,female,NT,Management,2011,yes,Mechanical,BE
+P914405,Priyanka,Bhandare,female,Open,Cap,2011,no,Mechanical,BE
+P914406,Kunal , Kalkundri,male,OBC,Cap,2011,yes,Mechanical,BE
+P914407,Sai ,Ghodke,male,SC,Cap,2011,yes,Mechanical,BE
+P914408, Nrupaja ,Bhide,male,Open,Cap,2011,no,Mechanical,BE
+P914409,Alson,D'souza,male,OBC,Management,2011,yes,Mechanical,BE
+P914410,Pereira ,Savio,female,SC,Cap,2011,no,Mechanical,BE
+P914411,Vrushal, Maniyar,female,NT,Management,2011,yes,Mechanical,BE
+P914412, Siddharth,Rai,female,Open,Cap,2011,no,Mechanical,BE
+P914413,Nishant ,Pandit,male,Open,Cap,2011,yes,Mechanical,BE
+P914414,Tejas,Patil,male,SC,Cap,2011,yes,Mechanical,BE
+P914415, Omkar,Vaishampayan,female,NT,Management,2011,no,Mechanical,BE
+P914416,Kaustubh ,Veer,female,SC,Cap,2011,yes,Mechanical,BE
+P914417,Heramb ,Karnataki,female,NT,Management,2011,no,Mechanical,BE
+P914418,Sachin , Kelkar,male,SC,Cap,2011,yes,Mechanical,BE
+P914419, Nikhil,Shinde,male,NT,Cap,2011,no,Mechanical,BE
+P914420,Himanshu,Londhe,female,Open,Cap,2011,yes,Mechanical,BE
+P914421,Vivek ,Thorve,female,Open,Cap,2011,yes,Mechanical,BE
+P914422,Akshay ,Joshi,male,SC,Cap,2011,no,Mechanical,BE
+P914423,Siddharth ,Desai,female,NT,Management,2011,yes,Mechanical,BE
+P914424,Aniket ,Kenjale,female,SC,Cap,2011,no,Mechanical,BE
+P914425,Sarang ,Holay,male,SC,Management,2011,yes,Mechanical,BE
+P914426,Ajinkya ,Kulkarni,female,NT,Cap,2011,no,Mechanical,BE
+P914427,Darshan ,Deshmukh,male,SC,Management,2011,yes,Mechanical,BE
+P914428,Santosh ,Suravase,female,NT,Cap,2011,yes,Mechanical,BE
+P914429,Harshal ,Bhadane,male,SC,Cap,2011,no,Mechanical,BE
+P914430,Pradeep,Tongale,female,NT,Cap,2011,yes,Mechanical,BE
+P914431,Ajay ,Dhavane,male,Open,Cap,2011,no,Mechanical,BE
+P914432,Tejas ,Ranjekar,male,Open,Cap,2011,yes,Mechanical,BE
+P914433,Mohi,Waskar,male,SC,Cap,2011,no,Mechanical,BE
+P914434,Tejas ,Nimbalkar,female,NT,Cap,2011,yes,Mechanical,BE
+P814435,Shreya ,Athavale,male,SC,Cap,2011,yes,Electrical,BE
+P814436,Meenal ,Dhanawade,female,SC,Cap,2011,no,Electrical,BE
+P814437,Deepika ,Raghani,male,NT,Management,2011,yes,Electrical,BE
+P814438,Tejashree ,Chaudhari,female,SC,Cap,2011,no,Electrical,BE
+P814439,Saurabh ,Vibhandik,female,NT,Management,2011,yes,Electrical,BE
+P814440,Akash ,Patil,male,SC,Cap,2011,no,Electrical,BE
+P814441,Ashwini ,Darekar,female,NT,Management,2011,yes,Electrical,BE
+P814442,Vikas ,Jadhav,male,Open,Cap,2011,yes,Electrical,BE
+P814443,Nipun ,Agarwal,female,Open,Management,2011,no,Electrical,BE
+P814444,Mukta ,Gogate,male,SC,Cap,2011,yes,Electrical,BE
+P814445,Rashmi ,Patil,female,NT,Management,2011,no,Electrical,BE
+P814446,Supriya ,Nene,male,SC,Cap,2011,yes,Electrical,BE
+P814447,Ashish ,Nilangekar,male,SC,Cap,2011,no,Electrical,BE
+P814448,Anish ,Talathi,female,NT,Cap,2011,yes,Electrical,BE
+P814449,Sandeep,Baisani,female,SC,Cap,2011,yes,Electrical,BE
+P814450,Pawan ,Bhanwase,male,NT,Cap,2011,no,Electrical,BE
+P814451,Bhushan, Dewar,male,SC,Cap,2011,yes,Electrical,BE
+P814452,Pranav,Tulpule,male,NT,Cap,2011,no,Electrical,BE
+P814453,Vishal ,Mhasawade,female,Open,Cap,2011,yes,EnTC,BE
+P814454,Ashutosh,Badave,female,Open,Cap,2011,no,EnTC,BE
+P714455,Meghadoot ,Gardi,female,Open,Cap,2011,yes,EnTC,BE
+P714456,Ajinkya ,Chouthai,male,SC,Cap,2011,yes,EnTC,BE
+P714457,Aditi, Hilekar,male,NT,Cap,2011,no,EnTC,BE
+P714458,Snehal, Lalwani,female,SC,Cap,2011,yes,EnTC,BE
+P714459,Madhuri ,Desai,male,SC,Cap,2011,no,EnTC,BE
+P714460,Abhijit ,Tawar,female,NT,Management,2011,yes,EnTC,BE
+P714461,Saurabh, Muley,male,SC,Cap,2011,no,EnTC,BE
+P714462,Jaideep ,Mehendle,male,NT,Management,2011,yes,EnTC,BE
+P714463,Shreya, Deodhar,male,SC,Cap,2011,yes,EnTC,BE
+P714464,Viju ,Pavithran,male,NT,Management,2011,yes,EnTC,BE
+P714465,Nishant ,Pavaskar,male,Open,admcat,2011,yes,EnTC,BE
+P714466,Pranav,Pathak,female,Open,Cap,2011,no,EnTC,BE
+P714467,Bhushan ,Muthiyan,male,SC,Management,2011,yes,EnTC,BE
+P714468,Munot,Pinakin ,female,NT,Cap,2011,no,EnTC,BE
+P714469,Abhishek ,Prabhudesai,female,SC,Management,2011,yes,EnTC,BE
+P714470,Shweta ,Vetal,female,NT,Cap,2011,no,EnTC,BE
+P714471,shreya ,Josh,male,Open,Cap,2011,yes,EnTC,BE
+P714472,Rathin ,Karhu,female,Open,Cap,2011,yes,EnTC,BE
+P714473,Anuja ,Jagtap,female,SC,Cap,2011,no,EnTC,BE
+P714474,Aboli ,Bhise,male,NT,Management,2011,yes,EnTC,BE
+P714475,Komal, Gaikwad,female,SC,Cap,2011,no,EnTC,BE
+P714476,Prachi ,Bhalerao,female,SC,Management,2011,yes,EnTC,BE
+P714477,Jayesh,Jahagirdar,male,NT,Cap,2011,no,EnTC,BE
+P714478,Swapnil, Desai,male,SC,Cap,2011,yes,EnTC,BE
+P714479,Bhushan ,Patil,female,NT,Cap,2011,no,EnTC,BE
+P714480,Bhushan ,Dhamale,female,NT,Management,2011,yes,EnTC,BE
+P714481,Priyanka,Zadge,male,SC,Cap,2011,no,EnTC,BE
+P714482,Bhavin ,Shah,male,SC,Management,2011,yes,EnTC,BE
+P714483,Anuja ,Shirsat,male,NT,Cap,2011,yes,EnTC,BE
+P714484,Pranav ,Nawathe,female,SC,Cap,2011,no,EnTC,BE
+P714485,Ruchika ,Satalkar,male,NT,Cap,2011,yes,EnTC,BE
+P714486,Harsha ,Lunawat,male,SC,Management,2011,no,EnTC,BE
+P714487,Nikhil,Koul,male,NT,Cap,2011,yes,EnTC,BE
+P714488,Soham ,kulkarni,male,Open,Management,2011,no,EnTC,BE
+P714489,Rajesh,Patil,male,Open,Cap,2011,yes,EnTC,BE
+P714490,Akash,Jagtap,female,SC,Cap,2011,yes,EnTC,BE
+P714491,Nutan ,Gangapure,male,NT,Cap,2011,no,EnTC,BE
+P714492,Prachi ,Agarwal,female,SC,Management,2011,yes,EnTC,BE
+P714493,Swarali ,Kulkarni,male,SC,Cap,2011,no,EnTC,BE
+P714494,Aniket ,Bansode,female,NT,Management,2011,yes,EnTC,BE
+P714495,Shrikant,Patil,male,Open,Cap,2011,no,EnTC,BE
+P714496,Ashutosh ,Gupta,male,Open,Cap,2011,yes,EnTC,BE
+P714497,Ajinkya,Gorhe,male,SC,Cap,2011,yes,EnTC,BE
+P714498,Manjiri ,Kulkarni,male,NT,Management,2011,no,EnTC,BE
+P714499,Abhishek, Newaskar,male,SC,Cap,2011,yes,EnTC,BE
+P7144100,Yogesh ,Kumbhar,male,SC,Management,2011,no,EnTC,BE
+P7144101,Aditya ,Warty,female,NT,Cap,2011,yes,EnTC,BE
+P7144102,Shrikant, Adhav,male,SC,Cap,2011,no,EnTC,BE
+P7144103,Sarang,Chousalkar,female,NT,Cap,2011,yes,EnTC,BE
+P7144104,Abhijeet,Tengale,male,NT,Management,2011,yes,EnTC,BE
+P7144105,Swarali ,Kulkarni,male,SC,Cap,2011,no,EnTC,BE
+P7144106,Neelam ,Jadhav,male,SC,Cap,2011,yes,EnTC,BE
+P6144107,Swapnil ,Raut,female,NT,Cap,2011,no,EnTC,BE
+P6144108,Omkar ,Joshi,male,Open,Cap,2011,yes,IT,BE
+P6144109,Shriya ,Hardikar,male,OBC,Management,2011,no,IT,BE
+P6144110,Kajal,Doshi,female,SC,Cap,2011,yes,IT,BE
+P6144111,Loukik ,Bhandari,female,NT,Management,2011,yes,IT,BE
+P6144112,Akshay ,Potnis,female,Open,Cap,2011,no,IT,BE
+P6144113,Chinmay ,Jaiswal,male,Open,Cap,2011,yes,IT,BE
+P6144114,Hemant ,Choudhari,male,SC,Cap,2011,no,IT,BE
+P6144115,Arundhati ,Deshpande,female,NT,Management,2011,yes,IT,BE
+P6144116,Ashish ,Ramani,female,SC,Cap,2011,no,IT,TE
+P6144117,Shweta ,Pardeshi,female,NT,Management,2011,yes,IT,TE
+P6144118,Namratha ,Jadhav,male,SC,Cap,2011,yes,IT,TE
+P6144119,Mahesh ,Gaikwad,male,NT,Cap,2011,no,IT,TE
+P6144120,Shivani ,Deshpande,female,Open,Cap,2011,yes,IT,TE
+P6144121,Sneha, Patil,female,Open,Cap,2011,no,IT,TE
+P6144122,Harshada ,Inamdar,male,SC,Cap,2011,yes,IT,TE
+P6144123,Shivraj ,Gawde,female,NT,Management,2011,no,IT,TE
+P6144124,Sumedh ,Deshmukh,female,SC,Cap,2011,yes,IT,TE
+P6144125,Aarohi ,Kulkarni,male,SC,Management,2011,yes,IT,TE
+P6144126,Amruta ,Padre,female,NT,Cap,2011,no,IT,TE
+P6144127,Sana ,Sayyad,male,SC,Management,2011,yes,IT,TE
+P6144128,Arvind, Bhat,female,NT,Cap,2011,no,IT,TE
+P6144129,Rutuja ,Raskar,male,SC,Cap,2011,yes,IT,TE
+P6144130,Shruti ,Mantri,female,NT,Cap,2011,no,IT,TE
+P5144131,Raunak ,Sabhani,male,Open,Cap,2011,yes,Computer,TE
+P5144132,Parag ,Dakle,male,Open,Cap,2011,yes,Computer,TE
+P5144133,Apurva ,Bakshi,male,SC,Cap,2011,no,Computer,TE
+P5144134,Madhavi ,Shinde,female,NT,Cap,2011,yes,Computer,TE
+P5144135,Pooja ,Gosavi,male,SC,Cap,2011,no,Computer,TE
+P5144136,Ruchi ,Birla,female,SC,Cap,2011,yes,Computer,TE
+P5144137,Sanjyot ,Bandal,male,NT,Management,2011,no,Computer,TE
+P5144138,Anuja ,Asalkar,female,SC,Cap,2011,yes,Computer,TE
+P5144139,Surbhi,Yengalwar,female,NT,Management,2011,yes,Computer,TE
+P5144140,Karishma ,Ghiya,male,SC,Cap,2011,yes,Computer,TE
+P5144141,Shweta ,Tulshibagwale,female,NT,Management,2011,yes,Computer,TE
+P5144142,Lokesh ,Mandesa,male,Open,Cap,2011,no,Computer,TE
+P5144143,Lubna ,Shaikh,female,Open,Management,2011,yes,Computer,TE
+P5144144,Pritam ,Rathi,male,SC,Cap,2011,no,Computer,TE
+P5144145,Divya ,Parekh,female,NT,Management,2011,yes,Computer,TE
+P5144146,Siddharth ,Mishra,male,SC,Cap,2011,no,Computer,TE
+P5144147,Abhishek ,Pande,male,SC,Cap,2011,yes,Computer,TE
+P5144148,Shardul ,Deshpande,female,NT,Cap,2011,yes,Computer,TE
+P5144149,Priyanka ,Gujar,female,SC,Cap,2011,no,Computer,TE
+P5144150,Shruti, Shah,male,NT,Cap,2011,yes,Computer,TE
+P5144151,Priyanka ,Tiwari,male,SC,Cap,2011,no,Computer,TE
+P5144152,Amit ,Badgujar,male,NT,Cap,2011,yes,Computer,TE
+P5144153,Deepali ,Sali,female,Open,Cap,2011,no,Computer,TE
+P5144154,Surabhi ,Mundada,female,Open,Cap,2011,yes,Computer,TE
+P5144155,Priyanka ,Bacche,female,Open,Cap,2011,no,Computer,TE
+P9154156,Madhura ,Mundale,male,SC,Cap,2012,yes,Mechanical,TE
+P9154157,Raghuveer ,Kane,male,NT,Cap,2012,no,Mechanical,TE
+P9154158,Shubhankar ,Joshi,female,SC,Cap,2012,yes,Mechanical,TE
+P9154159,Shraddha ,Baravkar,male,SC,Cap,2012,yes,Mechanical,TE
+P9154160,Abhishek ,Kshirsagar,female,NT,Management,2012,no,Mechanical,TE
+P9154161,Pranav ,Salunkhe,male,SC,Cap,2012,yes,Mechanical,TE
+P9154162,Sumit ,Gundyal,male,NT,Management,2012,no,Mechanical,TE
+P9154163,Rohan ,Nanaware,male,SC,Cap,2012,yes,Mechanical,TE
+P9154164,Pramod ,Mohite,male,NT,Management,2012,no,Mechanical,SE
+P9154165,Sanket ,Chandgude,male,Open,admcat,2012,yes,Mechanical,SE
+P9154166,Amit ,Jadhav,female,Open,Cap,2012,yes,Mechanical,SE
+P9154167,Chinmay ,Deshmukh,male,SC,Management,2012,no,Mechanical,SE
+P9154168,Prashant ,Kulkarni,female,NT,Cap,2012,yes,Mechanical,SE
+P9154169,Sujal ,Tipnis,female,SC,Management,2012,no,Mechanical,SE
+P9154170,Aditya ,Khadilkar,female,NT,Cap,2012,yes,Mechanical,SE
+P9154171,Pushkaraj ,Kulkarni,male,Open,Cap,2012,no,Electrical,SE
+P8154172,Shrutika ,Vernekar,female,Open,Cap,2012,yes,Electrical,SE
+P8154173,Yogesh ,Kumar,female,SC,Cap,2012,yes,Electrical,SE
+P8154174,Sumeet ,Gokhale,male,NT,Management,2012,no,Electrical,SE
+P8154175,Aliakbar ,Ajmerwala,female,SC,Cap,2012,yes,Electrical,SE
+P8154176,Aakash ,Wakil,female,SC,Management,2012,no,Electrical,SE
+P8154177,Shrinidhi ,Adke,male,NT,Cap,2012,yes,Electrical,SE
+P8154178,Mayur ,Gaikwad,male,SC,Cap,2012,no,Electrical,SE
+P8154179,Vishal ,Jagtap,female,NT,Cap,2012,yes,Electrical,SE
+P8154180,Krati ,Kaushik,female,NT,Management,2012,yes,Electrical,SE
+P8154181, Pooja ,Gawade,male,SC,Cap,2012,no,Electrical,SE
+P8154182,Siddhesh ,Rashinkar,male,SC,Management,2012,yes,Electrical,SE
+P7154183,Deepika ,Joshi,male,NT,Cap,2012,no,EnTC,SE
+P7154184,Isha ,Dharmadhikari,female,SC,Cap,2012,yes,EnTC,SE
+P7154185,Maitreya ,Ranade,male,NT,Cap,2012,no,EnTC,SE
+P7154186,Surabhi ,Rajandekar,male,SC,Management,2012,yes,EnTC,SE
+P7154187,Nikita ,Agarwal,male,NT,Cap,2012,yes,EnTC,SE
+P6154188,Pranav ,Bapat,male,Open,Management,2012,no,IT,SE
+P6154189,Sanket ,Gawas,male,Open,Cap,2012,yes,IT,SE
+P6154190,Ruchi ,Muldudwar,female,SC,Cap,2012,no,IT,SE
+P6154191,Sachin ,Lokulwar,male,NT,Cap,2012,yes,IT,SE
+P6154192,Sneha ,Yewale,female,SC,Management,2012,no,IT,SE
+P5154193,Pranav ,Lohokare,male,SC,Cap,2012,yes,Computer,SE
+P5154194,Aadesh ,Gupta,female,NT,Management,2012,yes,Computer,SE
+P5154195,Rajesh ,Vadde,male,Open,Cap,2012,no,Computer,SE
+P9164196,Priyanka ,Rathod,male,Open,Cap,2013,yes,Mechanical,SE
+P9164197,Sagar ,Karnavat,male,SC,Cap,2013,no,Mechanical,SE
+P9164198,Piyush ,Dutt,male,NT,Management,2013,yes,Mechanical,SE
+P9164199,Nikhil ,Sethi,male,SC,Cap,2013,no,Mechanical,SE
+P9164200,Kartikeya ,Lonikar,male,SC,Management,2013,yes,Mechanical,SE
+P9164201,Saniya ,Lande,female,NT,Cap,2013,yes,Mechanical,SE
+P9164202,Kuldeep ,Hole,male,SC,Cap,2013,no,Mechanical,SE
+P9164203,Prasad ,Inamdar,female,NT,Cap,2013,yes,Mechanical,SE
+P9164204,Shubham ,Marne,male,NT,Management,2013,no,Mechanical,SE
+P9164205,Shashank ,Patil,male,SC,Cap,2013,yes,Mechanical,SE
+P9164206,Apeksha ,Dhere,male,SC,Cap,2013,no,Mechanical,SE
+P8164207,Priyanka ,Rathod,female,NT,Cap,2013,yes,Electrical,SE
+P8164208,Pallavi ,Wagh,male,SC,Cap,2013,yes,Electrical,SE
+P8164209,Vinayak ,Bhosale,female,NT,Cap,2013,no,Electrical,SE
+P8164210,Ankit ,Singh,male,Open,Cap,2013,yes,Electrical,SE
+P8164211,Radhika ,Kulkarni,male,OBC,Management,2013,no,Electrical,SE
+P8164212,Saudamini ,Kulkarni,female,SC,Cap,2013,yes,Electrical,SE
+P8164213,Sayali ,Salunkhe,female,NT,Management,2013,no,Electrical,FE
+P8164214,Mayuri ,Sonawane,female,Open,Cap,2013,yes,Electrical,FE
+P7164215,Arpan ,Mondal,male,Open,Cap,2013,yes,EnTC,FE
+P7164216,Ninad ,Tanksale,male,SC,Cap,2013,yes,EnTC,FE
+P7164217,Vallabh ,Ansingkar,female,NT,Management,2013,yes,EnTC,FE
+P7164218,Aboli ,Kulkarni,female,SC,Cap,2013,no,EnTC,FE
+P7164219,Shreyas ,Gokhale,female,NT,Management,2013,yes,EnTC,FE
+P7164220,Amey ,Panse,male,SC,Cap,2013,no,EnTC,FE
+P7164221,Shubhankar ,Khaladkar,male,NT,Cap,2013,yes,EnTC,FE
+P7164222,Snehal ,Sadigale,female,Open,Cap,2013,no,EnTC,FE
+P7164223,Anshuman ,Khandare,female,Open,Cap,2013,yes,EnTC,FE
+P7164224,Saurabh ,Gulwelkar,male,SC,Cap,2013,yes,EnTC,FE
+P7164225,Shrilekha ,Pawar,female,NT,Management,2013,no,EnTC,FE
+P7164226,Bhavna ,Surywanshi,female,SC,Cap,2013,yes,EnTC,FE
+P6164227,Moiez ,Merchant,male,SC,Management,2013,no,IT,FE
+P6164228,Vishal ,Lalvani,female,NT,Cap,2013,yes,IT,FE
+P6164229,Piyush ,Kumar,male,SC,Management,2013,no,IT,FE
+P6164230,Prajakta ,Borate,female,NT,Cap,2013,yes,IT,FE
+P6164231,Shweta ,Shah,male,SC,Cap,2013,no,IT,FE
+P6164232,Saurabh ,Dharmadhikari,female,NT,Cap,2013,yes,IT,FE
+P6164233,Yogesh ,Bane,male,Open,Cap,2013,no,IT,FE
+P6164234,Prasad ,Bhokare,male,Open,Cap,2013,yes,IT,FE
+P5164235,Karan ,Shaha,male,SC,Cap,2013,yes,Computer,FE
+P5164236,Siddhi ,Khandge,female,NT,Cap,2013,no,Computer,FE
+P5164237,Vinayak ,Tapkir,male,SC,Cap,2013,yes,Computer,FE
+P5164238,Latad,Latad,female,SC,Cap,2013,no,Computer,FE
+P5164239,Pratik ,sethi,male,NT,Management,2013,yes,Computer,FE
+P5164240,Poonam ,Golhar,female,SC,Cap,2013,no,Computer,FE
+P5164233,Yash ,Bhan,female,NT,Management,2013,yes,Computer,FE
+P5164233,Sharvari ,Joshi,male,SC,Cap,2013,yes,Computer,FE
+P5164233,Shantanu ,Vasishtha,female,NT,Management,2013,no,Computer,FE
+P5164233,Mahesh ,Vidhate,male,Open,Cap,2013,yes,Computer,FE
